@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC preta",
+      "price": 5.85
+    },
+    {
+      "name": "Lamborghini",
+      "price": "22200.99",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "Caneta BIC vermelha",
+      "price": 5.85
+    },
+    {
+      "id": 4,
+      "name": "Monblanc",
+      "price": 1505
+    },
+    {
+      "id": 5,
+      "name": "Pincel dourado",
+      "price": 300.15
+    },
+    {
+      "name": "MacBook",
+      "price": "1200.99",
+      "id": 6
+    }
+  ]
+}

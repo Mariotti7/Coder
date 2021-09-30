@@ -17,3 +17,7 @@
 .header .material-icons{
     cursor: pointer;
 }
+
+.v-top{
+    padding-right: 2.2px;
+}
